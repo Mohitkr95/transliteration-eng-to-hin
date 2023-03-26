@@ -9,6 +9,8 @@ This repository contains the code for an English to Hindi transliteration model 
 * FastAPI
 * Uvicorn
 
+![image](https://user-images.githubusercontent.com/37563886/227764842-3a037086-89f5-42ee-881a-aba4d291acc0.png)
+
 ## Installation
 Clone this repository to your local machine.
 

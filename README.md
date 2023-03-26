@@ -9,6 +9,8 @@ This repository contains the code for an English to Hindi transliteration model 
 * FastAPI
 * Uvicorn
 
+### Link to App - https://mohitkr95-transliteration-eng-to-hin-app-yt0jjq.streamlit.app/
+
 ![image](https://user-images.githubusercontent.com/37563886/227764842-3a037086-89f5-42ee-881a-aba4d291acc0.png)
 
 ## Installation
